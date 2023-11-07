@@ -1,10 +1,10 @@
-package com.noLimit.coachDemo;
+package com.MySQL.crudDemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CoachDemoApplicationTests {
+class CrudDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
